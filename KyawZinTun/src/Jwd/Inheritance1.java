@@ -23,7 +23,8 @@ public class Inheritance1 {
 Dog myDog =new Dog();// object create
 myDog.eat();
 myDog.bark();
+myDog.bark();
 	}
 
 }
-//void need to create object coz static ma pr bu  
+//need to create object  
