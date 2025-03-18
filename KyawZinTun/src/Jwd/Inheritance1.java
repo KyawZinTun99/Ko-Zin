@@ -26,4 +26,4 @@ myDog.bark();
 	}
 
 }
-//void need to create object 
+//void need to create object coz static ma pr bu  
