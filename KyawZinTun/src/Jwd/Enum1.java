@@ -17,6 +17,7 @@ case YELLOW:
 case GREEN:
     System.out.println("Go!");
     break;	
+    //System.out.println("Go!");
 }//switch end
 
 }// p end
